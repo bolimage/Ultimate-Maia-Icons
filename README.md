@@ -5,4 +5,4 @@ Theme can be download here : https://www.opendesktop.org/p/1218961/
 
 <b>SCREENSHOT</b>
 
-<img src="https://cdn.scrot.moe/images/2018/06/28/screen21554.jpg" alt="screen21554.jpg" border="0" />
+<img src="https://cdn.scrot.moe/images/2018/09/16/screen2655.jpg" alt="screen2655.jpg" border="0" />
