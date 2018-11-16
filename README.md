@@ -3,7 +3,7 @@ Blue, Green, Orange, Grey, Red, Black, Violet folders icon themes for Plasma and
 
 Theme can be download here : https://www.opendesktop.org/p/1218961/
 
-Partially based on Breeze icon theme.
+Partially based on <a href="https://github.com/KDE/breeze-icons">Breeze</a> icon theme.
 
 <b>SCREENSHOT</b>
 
