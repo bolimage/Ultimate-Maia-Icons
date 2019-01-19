@@ -1,5 +1,5 @@
 # Ultimate-Maia-Icons
-Blue, Green, Orange, Grey, Red, Black, Violet folders icon themes for Plasma and Gnome.
+Blue, Green, Brown, Orange, Grey, Red, Black, Violet folders icon themes for Plasma and Gnome.
 
 Theme can be download here : https://www.opendesktop.org/p/1218961/
 
