@@ -8,3 +8,5 @@ Partially based on <a href="https://github.com/KDE/breeze-icons">Breeze</a> icon
 <b>SCREENSHOT</b>
 
 <img src="https://cdn.scrot.moe/images/2018/09/16/screen2655.jpg" alt="screen2655.jpg" border="0" />
+
+<img src="https://cdn.scrot.moe/images/2019/01/19/screen225544.jpg" alt="screen225544.jpg" border="0" />
