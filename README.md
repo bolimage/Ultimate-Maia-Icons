@@ -1,9 +1,9 @@
 # Ultimate-Maia-Icons
 Blue, Green, Orange, Grey, Red, Black, Violet folders icon themes for Plasma and Gnome.
 
-Theme can be download here : https://www.opendesktop.org/p/1218961/
+Theme can be download here : https://www.pling.com/p/1218961/
 
-Pastel color version here : https://www.opendesktop.org/p/1286363/
+Pastel color version here : https://www.pling.com/p/1286363/
 
 Partially based on <a href="https://github.com/KDE/breeze-icons">Breeze</a> icon theme.
 
